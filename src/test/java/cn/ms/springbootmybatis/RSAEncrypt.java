@@ -20,6 +20,9 @@ import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
 import sun.misc.BASE64Decoder;
 
+/**
+ * 参考博客http://blog.csdn.net/chaijunkun/article/details/7275632/#
+ */
 public class RSAEncrypt {
 	
 	private static final String DEFAULT_PUBLIC_KEY= 
